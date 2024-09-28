@@ -85,6 +85,6 @@ If you aim at becoming code maintainer with full write access, this must be
 formally requested, see here for details:
 <https://trac.osgeo.org/grass/wiki/HowToContribute#WriteaccesstotheGRASSaddonsrepository>
 
-
-## Created With, Tenslor Flow & Python   
-## Created By, Aantrreksh
+  
+## Created By, Aantrreksh  
+## Made Using - Python, TensorFlow, along with advanced Jupyter Notebook skills. 
