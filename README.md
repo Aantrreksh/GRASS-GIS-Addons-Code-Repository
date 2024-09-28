@@ -86,5 +86,5 @@ formally requested, see here for details:
 <https://trac.osgeo.org/grass/wiki/HowToContribute#WriteaccesstotheGRASSaddonsrepository>
 
   
-## Created By, Aantrreksh  
-## Made Using - Python, TensorFlow, along with advanced Jupyter Notebook skills. 
+## Created And Designed By, Aantrreksh Singh
+## Creared Using - Python, TensorFlow, along with Advanced Jupyter Notebook skills. 
