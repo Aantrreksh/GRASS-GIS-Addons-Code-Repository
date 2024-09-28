@@ -87,4 +87,4 @@ formally requested, see here for details:
 
   
 ## Created And Designed By, Aantrreksh Singh
-## Creared Using - Python, TensorFlow, along with Advanced Jupyter Notebook skills. 
+## Created Using - Python, TensorFlow, along with Advanced Jupyter Notebook skills. 
