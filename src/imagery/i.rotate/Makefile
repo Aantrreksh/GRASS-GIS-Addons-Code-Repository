@@ -1,0 +1,13 @@
+MODULE_TOPDIR = ../..
+
+PGM = i.rotate
+
+EXTRA_CFLAGS= $(GDALCFLAGS)
+EXTRA_INC = $(PROJINC)
+
+LIBES = $(GPROJLIB) $(RASTERLIB) $(GISLIB)
+DEPENDENCIES = $(GPROJDEP) $(RASTERDEP) $(GISDEP)
+
+include $(MODULE_TOPDIR)/include/Make/Module.make
+
+default: cmd
